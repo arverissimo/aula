@@ -7,6 +7,7 @@
 
 <h1>Isto é <font color="#000099">vermelho</font></h1>
 <p>Isto é <font color="green">verde</font></p>
+<p> Teste para a cor <font color="blue">azul</font></p>
 
 </body>
 </html>
