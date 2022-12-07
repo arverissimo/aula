@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Isto é <font color="#000099">vermelho</font></h1>
+<p>Isto é <font color="green">verde</font></p>
+
+</body>
+</html>
